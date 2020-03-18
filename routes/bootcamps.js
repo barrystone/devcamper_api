@@ -6,7 +6,7 @@ const {
   createBootcamps,
   updateBootcamps,
   deleteBootcamps
-} = require("../controller/bootcamps");
+} = require("../controllers/bootcamps");
 
 router
   .route("/")
