@@ -1,0 +1,9 @@
+?averageCost[gte]=10000&location.city=Boston
+
+?housing=true&location.state=MA
+
+?select=name
+
+?select=name,description,housing&housing=true
+
+?select=name,description,housing&sort=-name
